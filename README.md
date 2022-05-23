@@ -1,5 +1,5 @@
-# dissertation
-Covid smartcard entry system
+# dissertation - Covid smartcard entry system
+
 
 PROTOTYPE SYSTEM CREATED AS PART OF DISSERTATION PROJECT.
 
