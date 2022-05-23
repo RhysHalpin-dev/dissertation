@@ -3,7 +3,7 @@
 
 PROTOTYPE SYSTEM CREATED AS PART OF DISSERTATION PROJECT.
 
-#Abstract 
+# Abstract 
 
 The core purpose of this project was to create an entry / exit system to cater towards the current ongoing covid pandemic. Identifying that current building entry systems such as the universities offer basic smartcard functionality without automatic covid temperature screening. In most cases temperature screening is becoming common place in workspaces, however it is usually carried out manually or by a separate system after entry. This study aimed to combine this type of entry system with a covid screening system that could be remotely administrated from a web app thus keeping attendees safer and if deployed could lead to reduced covid transmission within enclosed environments where deployed.  
 
